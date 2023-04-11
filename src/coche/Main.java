@@ -32,6 +32,7 @@ public class Main {
         stockActual = miCoche.obtenerStock();
         System.out.println("El stock actual es"+ stockActual );
     }
-
+      
 }
+//COMENTARIO DE PRUEBA JJGM
     
